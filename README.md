@@ -1,8 +1,10 @@
 # React Modal Starter
 
-Legacy code for your workspace using react , modal and route (including footer and header ) .
+Minimalist template for your React Workspace using Modal and Paging  .
 
+## Dependencies 
+- React Router DOM V5
 
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-modals-dksjgp)
+## Live Preview
+[![Open in codesandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/react-modal-starter-1e1e4q)
 
